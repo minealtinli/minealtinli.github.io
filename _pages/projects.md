@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: research
 permalink: /projects/
 description:
 nav: false
-nav_order: 3
-display_categories: [work, fun]
+nav_order: 2
+display_categories: [work]
 horizontal: false
 ---
 

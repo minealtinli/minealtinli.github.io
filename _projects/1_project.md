@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: How viral communities kept and evolve in populations?
+description: interactions at population level
 img: assets/img/12.jpg
 importance: 1
 category: work

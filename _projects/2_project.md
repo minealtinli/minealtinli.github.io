@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
+title: How microorganism interactions affect vector biology? How microorganisms communicate? How interactions evolve?
+description: interactions at organism level
 img: assets/img/3.jpg
 importance: 2
 category: work
