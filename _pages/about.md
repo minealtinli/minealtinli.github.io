@@ -2,33 +2,32 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://www.bnitm.de/en/research/research-groups/interface/rg-mosquito-virus-interactions'>BNITM</a>. GSO KT-Boost, Leibniz PostDoc Network & Leibniz Mentoring Alumni. <br />Science enthusiast, long-distance runner, and forever curious. "But WHY?!".
 
 profile:
   align: right
   image: 2.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+**About Me**
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I’m fascinated by **how viruses, bacteria, and their hosts interact across different scales**—from molecular mechanisms inside a single cell to the evolutionary forces shaping entire populations. My research explores **how different partners—virus-virus, bacteria-virus, and host-microbe-virus interactions—unfold across these levels**, with a special focus on **mosquitoes and insect-specific viruses**. These hidden dynamics shape viral ecology, vector biology, and the broader evolution of infectious diseases.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I thrive on **collaboration and creativity**, designing new ways to study these complex relationships while mentoring the next generation of researchers. Beyond research, I’m deeply committed to building an **inclusive and diverse** scientific community, believing that science flourishes when people from different backgrounds and perspectives come together. Through **volunteering roles in advocacy and mentorship**, I work to support early-career researchers and push for better policies in academia, ensuring a more equitable and dynamic research environment.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+For me, science is about **curiosity, interactions, and impact**. I love diving into **fundamental questions about how viruses persist, evolve, and interact with their hosts**—but what excites me just as much is knowing that these discoveries could, in time, help **rethink vector control strategies** or reveal new ways to disrupt virus transmission. Whether it’s tracing viral interference at the cellular level or uncovering ecological patterns across mosquito populations, each new piece of the puzzle opens up more questions, more connections, and more possibilities to explore.
