@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Researcher @ <a href='https://www.bnitm.de/en/research/research-groups/interface/rg-mosquito-virus-interactions'>BNITM</a>. GSO KT-Boost, Leibniz PostDoc Network & Leibniz Mentoring Alumni. <br />Runs on roads, runs on trails, runs on curiosity. <em>"But WHY?!"</em>.
+subtitle: Researcher @ <a href='https://www.bnitm.de/en/research/research-groups/interface/rg-mosquito-virus-interactions'>BNITM</a>. Runs on roads, runs on trails, runs on curiosity. <em>"But WHY?!"</em>.
 
 profile:
   align: right

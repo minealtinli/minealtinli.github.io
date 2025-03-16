@@ -1,9 +1,9 @@
 ---
 layout: page
-title: research
+title: research interests
 permalink: /projects/
 description:
-nav: false
+nav: true
 nav_order: 2
 display_categories: [work]
 horizontal: false

@@ -1,81 +1,26 @@
 ---
 layout: page
-title: Mechanisms of microorganism interactions
-description: interactions at cellular level
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: How interactions shape mosquito viral communities in natural populations?
+description: Interactions at the Population Level
+img: assets/img/population2.webp
 importance: 3
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+With the rise of next-generation sequencing (NGS) and metagenomics, the number of insect-specific viruses (ISVs) detected in mosquitoes has rapidly expanded. Rather than being isolated occurrences, ISVs appear to form stable viral communities, co-existing with each other, with arboviruses, and with mosquito-associated bacteria. Some ISVs seem to be part of a core virome, present across mosquito populations and persisting over evolutionary timescales.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Studying interactions at the cellular and organism levels gives us powerful insights into how viruses and microbiota interact within individual mosquitoes, but how do these interactions play out at the population level? Can we take what we know about mechanisms of interactions—such as viral competition, microbiota influence, or immune responses—and see their impact on virus evolution, transmission, and community structure in wild mosquito populations?
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+At the same time, field studies reveal new patterns in how viruses and microbes persist and spread—patterns that can lead us to discover new mechanisms of interaction when studied under controlled conditions.
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+- From Mechanisms to Populations:
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+Are the ISV-arbovirus interactions we observe in the lab shaping viral communities in nature, or are they overridden by environmental and host factors?
+Do microbiota-viral interactions influence vector competence in a way that translates to real-world transmission patterns?
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+-  From Populations Back to Mechanisms:
 
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
+Do natural ISV communities differ across mosquito species, environments, or geographic regions?
+Can unexpected patterns of co-infection in the field reveal novel virus-virus or virus-bacteria interactions?
+How do mosquito-virus co-evolutionary dynamics shape which viruses persist, compete, or dominate within a given population?
