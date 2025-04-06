@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-shaping-academic-culture",
+          title: "shaping academic culture",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/culture/";
+          },
         },{id: "post-a-post-with-image-galleries",
       
         title: "a post with image galleries",
