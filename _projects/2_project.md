@@ -13,7 +13,7 @@ giscus_comments: false
         {% include figure.liquid path="assets/img/mos.png" title="example image" class="img-fluid rounded z-depth-1" style="max-width: 100%;" %}
         <div class="caption text-center mt-2">
             Mosquitoes not only transmit pathogenic viruses to other animals, but also are hosts for a rich microbiota.  
-            <a href="https://10.3389/fcimb.2021.694020">Altinli et al. 2021</a>
+            <a href="https://www.frontiersin.org/journals/cellular-and-infection-microbiology/articles/10.3389/fcimb.2021.694020/full?utm_source=dlvr.it&utm_medium=twitter">Altinli et al. 2021</a>
         </div>
     </div>
     <div class="col-md-7">
