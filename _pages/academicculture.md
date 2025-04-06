@@ -119,7 +119,7 @@ nav_order: 4
 - **October 2023** — Panelist in [Postdocs in Germany: Challenges, Opportunities, and Perspectives](https://paw-germany.de/event/postdocs-in-germany/) alongside BMBF Parliamentary Secretary Dr Jens Brandenburg and other early career researcher representatives.
 <div class="row mt-3 justify-content-center text-center">
   <div class="col-md-6">
-    {% include figure.liquid loading="eager" path="assets/img/panel.jpeg" class="img-fluid rounded z-depth-1" style="max-width: 300px;" zoomable=true %}
+    {% include figure.liquid loading="eager" path="assets/img/Panel.jpeg" class="img-fluid rounded z-depth-1" style="max-width: 300px;" zoomable=true %}
   </div>
 </div>
 <div class="caption text-center mt-2">
