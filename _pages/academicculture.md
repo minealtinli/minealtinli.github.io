@@ -123,7 +123,7 @@ nav_order: 4
   </div>
 </div>
 <div class="caption text-center mt-2">
-  From defining “postdoc” to exploring long-term career prospects — we unpacked the challenges international researchers face and asked whether current frameworks, like the WissZeitVG, are aligned with the realities of postdoc life in Germany. We also exchanged ideas on how the system could evolve to better support future researchers.
+  From defining “postdoc” to exploring long-term career prospects, we unpacked the challenges international researchers face and asked whether current frameworks, like the WissZeitVG, are aligned with the realities of postdoc life in Germany. We also exchanged ideas on how the system could evolve to better support early career researchers.
 </div>
 
 
