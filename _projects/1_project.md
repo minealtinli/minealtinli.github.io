@@ -8,10 +8,10 @@ category: work
 related_publications: false
 ---
 
-Both insect-specific viruses (ISVs) and arboviruses can persist and sometimes coexist in mosquito cells. While arboviruses are known for their ability to infect and be transmitted by mosquitoes, ISVs remain restricted to insect hosts. In some cases ISVs can interfere or facilitate the arbovirus infections, however why this happens and what are the interaction mechanisms are unknown.
+Both insect-specific viruses (ISVs) and arthropod-borne viruses (arboviruses) can  persist and sometimes coexist—in mosquito cells. While arboviruses are transmitted to vertebrates, ISVs remain restricted to insects. This fundamental difference raises key questions: Does their divergence lie in how they interact with the mosquito immune system? ISVs have been shown to interfere with or even facilitate arbovirus infections, but the mechanisms behind these interactions remain unclear. Understanding these processes could shed light on virus persistence, competition, and transmission within mosquito hosts.
 
-To better understand these dynamics, my research investigates:
+To better understand virus–virus and virus–host dynamics at the cellular level, my research focuses on:
 
-- How ISVs establish long-term infections and persist in mosquito cells over time.
-- The mechanisms of virus-virus interactions, including how ISVs influence arboviruses through interference, or facilitation.
-- Exploring the role of RNA interference (RNAi) in shaping these interactions.
+- How ISVs and arboviruses establish long-term infections and persist in mosquito cells, and how immune responses regulate their maintenance
+- How virus–virus interactions unfold during co-infection, and how immune pathways modulate interference or facilitation between ISVs and arboviruses.
+- How antiviral responses operate during co-infection, focusing on how mosquito immunity modulates the interaction between ISVs and arboviruses, potentially altering replication dynamics and outcomes.

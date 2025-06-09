@@ -8,7 +8,13 @@ nav_order: 2
 display_categories: [work]
 horizontal: false
 ---
+Mosquitoes are central vectors for numerous emerging and re-emerging viral diseases, yet their biology is shaped by far more than the pathogens they transmit. As hosts to a wide array of arboviruses (viruses that alternate between mosquito and vertebrate hosts), insect-specific viruses (ISVs) (restricted to insect hosts), and diverse symbiotic microbiota, mosquitoes represent complex systems where microbial interactions influence both viral persistence and transmission dynamics. These interactions (virus–virus, microbe–virus, and host–microbe) are further modulated by the mosquito’s innate immune system, especially RNA interference (RNAi), a central antiviral pathway in insects.
 
+My research investigates these interactions comparatively across different biological scales, from cellular mechanisms of immune modulation to population level dynamics, to uncover the underlying processes that determine whether and how viruses are transmitted. These interactions shape mosquito immunity, tissue tropism and infection outcomes, and may be repurposed or engineered for novel vector control strategies. Understanding these relationships provides a foundation for translational approaches that aim to disrupt pathogen transmission at its ecological and molecular roots.
+
+
+<!-- pages/projects.md -->
+<div class="projects">
 <!-- pages/projects.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
